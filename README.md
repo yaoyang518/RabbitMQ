@@ -1,3 +1,3 @@
-#这是一个rabbitmq集成的demo
+# 这是一个rabbitmq集成的demo
 sender是发送的
 recevier是接收的
